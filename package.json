@@ -1,0 +1,35 @@
+{
+  "name": "passport-vimeo-oauth2",
+  "version": "0.0.1",
+  "description": "Vimeo OAuth2 strategy for Passport.",
+  "keywords": [
+    "passport",
+    "vimeo",
+    "oauth2",
+    "auth",
+    "authentication",
+    "identity"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mjpearson/passport-vimeo-oauth2.git"
+  },
+  "bugs": {
+    "url": "http://github.com/mjpearson/passport-vimeo-oauth2/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/MIT"
+    }
+  ],
+  "main": "./lib/passport-vimeo-oauth2",
+  "dependencies": {
+    "pkginfo": "0.2.x",
+    "passport-oauth": "~0.1.1"
+  },
+  "engines": {
+    "node": ">= 0.4.0"
+  },
+  "homepage": "https://github.com/mjpearson/passport-vimeo-oauth2"
+}
