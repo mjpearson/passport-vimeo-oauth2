@@ -1,6 +1,6 @@
 {
   "name": "passport-vimeo-oauth2",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Vimeo OAuth2 strategy for Passport.",
   "keywords": [
     "passport",
