@@ -26,7 +26,7 @@
   "main": "./lib/passport-vimeo-oauth2",
   "dependencies": {
     "pkginfo": "0.2.x",
-    "passport-oauth": "~0.1.1"
+    "passport-oauth": "1.0.0"
   },
   "engines": {
     "node": ">= 0.4.0"
